@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/macro-dashboard-frontend/static/css/main.e6c13ad2.css",
+    "main.js": "/macro-dashboard-frontend/static/js/main.47b30956.js",
+    "static/js/453.f6fe18e0.chunk.js": "/macro-dashboard-frontend/static/js/453.f6fe18e0.chunk.js",
+    "index.html": "/macro-dashboard-frontend/index.html",
+    "main.e6c13ad2.css.map": "/macro-dashboard-frontend/static/css/main.e6c13ad2.css.map",
+    "main.47b30956.js.map": "/macro-dashboard-frontend/static/js/main.47b30956.js.map",
+    "453.f6fe18e0.chunk.js.map": "/macro-dashboard-frontend/static/js/453.f6fe18e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.47b30956.js"
+  ]
+}
